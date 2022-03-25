@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 *italiczed text*
 >blockquote
 
-1.First item
-2.Second item
-3.Third item
+1. First item
+2. Second item
+3. Third item
 - First item
 - Second item
 - Third item
