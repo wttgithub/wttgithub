@@ -13,18 +13,13 @@ wttgithub/wttgithub is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-#Basic Syntax
+# Basic Syntax
 
-#标题
-
-##标题
-
-###标题
-
+# 标题
+## 标题
+### 标题
 **blod text**
-
 *italiczed text*
-
 >blockquote
 
 1.First item
